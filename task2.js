@@ -24,9 +24,7 @@ function parallaxScroll() {
         { selector: '.rock-2', baseTop: 200, speed: 0.6 },
         { selector: '.rock-3', baseTop: 500, speed: 0.4 },
         { selector: '.rock-4', baseTop: 600, speed: 0.5 },
-        { selector: '.rock-5', baseTop: 600, speed: 0.7 },
         { selector: '.rock-6', baseTop: 400, speed: 0.7 },
-        { selector: '.rock-7', baseTop: 600, speed: 0.5 },
         { selector: '.rock-8', baseTop: 200, speed: 0.2 },
         { selector: '.rock-9', baseTop: 200, speed: 0.4 }
     ];
